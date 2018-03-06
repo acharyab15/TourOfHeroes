@@ -1,3 +1,7 @@
+# Summary
+
+This repository contains code from the TourOfHeroes tutorial found on the angular.io official website. Some of the topics I learned with this tutorial include simple angular services, observables (and of) from rxjs, http routes, among others. 
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
